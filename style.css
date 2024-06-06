@@ -75,10 +75,6 @@
     flex-direction: column;
     margin: 50px 20px;
     height: fit-content;
-
-    /* height: 500px; */
-  }
-  .main button:hover {
   }
 }
 /* ================================== */
